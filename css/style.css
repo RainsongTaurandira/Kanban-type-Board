@@ -43,13 +43,7 @@ h2 {
 }
 
 .kanban__column {
-    /* display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 20px;
-    margin-top: 20px; */
-     /* to do -- change to grid / make this mobile-friendly -- https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template  */
     flex: 1;
-    /* makes sure every column has an equal width */
 }
 
 .kanban__column:not(:last-child) {
