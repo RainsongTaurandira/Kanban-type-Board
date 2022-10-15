@@ -3,4 +3,4 @@
 -----
 single-page app made with HTML, CSS, and JavaScript, using components
 -----
-
+deployed on Netlify at https://funny-blini-8046c6.netlify.app
